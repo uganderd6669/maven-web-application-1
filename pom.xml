@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>yuga</name>
-	      <url>http://3.109.49.245/:8081/repository/flipkart-release/</url>
+	      <url>http://3.109.49.245:8081/repository/yuga-project-1-mixed/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>yuga</name>
-	      <url>http://3.109.49.245:8081/repository/flipkart-snapshot/</url>
+	      <url>http://3.109.49.245:8081/repository/yuga-project-1-mixed/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
